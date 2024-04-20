@@ -1,0 +1,125 @@
+Welcome to Utility Bot!
+
+Options
+1. Find word in file
+2. Add numbers
+3. Set statistics
+4. Distance between world cities
+5. quit
+Select: 1
+
+Enter filename: bot.cpp
+What word would you like to find? cout
+
+Found target word "cout" at
+Line 34, column 4
+Line 37, column 8
+Line 38, column 8
+Line 39, column 8
+Line 40, column 8
+Line 41, column 8
+Line 42, column 8
+Line 45, column 12
+Line 47, column 12
+Line 51, column 12
+Line 58, column 12
+Line 66, column 14
+Line 67, column 12
+Line 68, column 12
+Line 69, column 12
+Line 75, column 12
+Line 78, column 12
+Line 79, column 12
+Line 97, column 12
+Line 100, column 12
+Line 105, column 16
+Line 108, column 16
+Line 112, column 12
+Line 129, column 4
+Line 140, column 12
+Line 143, column 12
+Line 148, column 16
+Line 156, column 8
+Line 158, column 8
+Line 171, column 4
+Line 174, column 12
+Line 176, column 8
+Line 177, column 8
+Line 342, column 4
+Line 343, column 4
+Line 344, column 4
+Line 345, column 4
+Line 346, column 4
+Line 348, column 8
+Line 350, column 4
+Line 363, column 10
+Line 364, column 10
+Line 365, column 10
+Line 388, column 14
+Line 389, column 14
+Line 390, column 14
+Line 394, column 14
+Line 410, column 14
+Line 411, column 14
+Line 412, column 14
+Line 416, column 14
+Line 432, column 14
+Line 433, column 14
+Line 434, column 14
+Line 438, column 14
+Line 446, column 6
+
+Options
+1. Find word in file
+2. Add numbers
+3. Set statistics
+4. Distance between world cities
+5. quit
+Select: 2
+
+Enter an expression like this: 2+2
+Multiplication, division, addition, subtraction, and exponents supported
+Only works with single expressions
+2*2
+4.000000
+
+Options
+1. Find word in file
+2. Add numbers
+3. Set statistics
+4. Distance between world cities
+5. quit
+Select: 3
+
+Enter stats set like this: 1.1 2.2 3.3
+You can also do 80 3x100 120 to get 80 100 100 100 120
+80 3x100 110 117
+
+Min: 80.000000
+Max: 117.000000
+Mean: 101.166667
+Median: 100.000000
+Modes: 100.000000
+Standard deviation 11.407843
+
+Options
+1. Find word in file
+2. Add numbers
+3. Set statistics
+4. Distance between world cities
+5. quit
+Select: 4
+
+Enter first city name: Tokyo
+
+Enter second city name: San Jose
+
+Distance between the two cities: 5182 mi
+
+Options
+1. Find word in file
+2. Add numbers
+3. Set statistics
+4. Distance between world cities
+5. quit
+Select:
